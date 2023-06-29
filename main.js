@@ -75,14 +75,16 @@ btn.forEach((element, index) => {
       }
     }
     if (index === 3) {
-      d--;
       if (d > 0) {
+        d--;
+
         document.querySelector(".add-3").innerText = d;
       }
     }
     if (index === 4) {
-      e--;
       if (e > 0) {
+        e--;
+
         document.querySelector(".add-4").innerText = e;
       }
     }
