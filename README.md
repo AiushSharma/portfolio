@@ -1,5 +1,5 @@
-# portfolio
-# This is a portfolio project made using HTML,CSS,JS. with shopping cart functionable.
+# Portfolio
+# This is a portfolio project with ecommerce functionality.
 ---> Key Points
 1. This is a pure frontend project.
 2. It has shopping icon and functionable add to cart option.
